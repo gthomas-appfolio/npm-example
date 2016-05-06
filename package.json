@@ -1,0 +1,14 @@
+{
+  "name": "npm-example",
+  "version": "1.0.0",
+  "description": "Sample npm dependency to test github dependiecies",
+  "main": "index.js",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gthomas-appfolio/npm-example.git"
+  },
+  "author": "Gary Thomas",
+  "license": "ISC",
+  "homepage": "https://github.com/gthomas-appfolio/npm-example#readme"
+}
